@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">colorView</string>
+    <string name="box_blue_text">Blue</string>
+    <string name="box_green_text">Green</string>
+    <string name="box_purple_text">Purple</string>
+    <string name="box_clear">Clear</string>
+    <string name="box_red_text">Red</string>
+</resources>
